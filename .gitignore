@@ -1,0 +1,8 @@
+# Bytecode compilado
+*.class
+build/
+out/
+
+# Saidas geradas pela execucao dos exercicios
+imagens_recebidas/
+pagina-recebida.html
